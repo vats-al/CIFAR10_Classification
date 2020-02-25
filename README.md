@@ -5,3 +5,5 @@ This Project is a part of course Visual Recognition at IIIT Bangalore, India. Pr
 This project is an implementation of approach proposed here: https://people.eecs.berkeley.edu/~efros/courses/AP06/Papers/csurka-eccv-04.pdf
 
 Dataset Link: https://www.cs.toronto.edu/~kriz/cifar.html
+
+Accuracy: 30.05%
